@@ -1,3 +1,5 @@
+## Check out teh profile
+[Susanna](https://susannapezzini.github.io/personal_profile/profile/index.html)
 ## Setup
 
 We don't want to keep your profile within `fullstack-challenges` because we want to version it with `git` as a separate project. So let's copy your profile as an independent folder and jump into it:
