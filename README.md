@@ -1,4 +1,4 @@
-## Check out teh profile
+## Check out the profile
 [Susanna](https://susannapezzini.github.io/personal_profile/profile/index.html)
 ## Setup
 
